@@ -13,6 +13,9 @@ public class MainClass {
 	public MainClass(String name, String id, String nation, String state) {
 		super();
 		this.name = name;
+		this.xcvxc = name;
+		this.dgsdfg = xcvxc;
+		this.dgsdfg = name;
 		this.id = id;
 		this.nation = nation;
 		this.state = state;
