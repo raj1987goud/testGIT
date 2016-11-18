@@ -13,6 +13,8 @@ public class MainClass {
 	public MainClass(String name, String id, String nation, String state) {
 		super();
 		this.name = name;
+		this.name = name;
+		this.name = name;
 		this.id = id;
 		this.nation = nation;
 		this.state = state;
