@@ -7,17 +7,18 @@ public class MainClass {
 	private String nation;
 	private String state;
 	private String stateNewAppend;
-	
+	private String stringStateObj;
 	public MainClass() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-	public MainClass(String name, String id, String nation, String state,String stateNewAppend) {
+	public MainClass(String name, String id, String nation, String state,String stringStateObj) {
 		super();
 		this.name = name;
 		this.name = name;
 		this.nccc = name;
 		this.stateNewAppend = stateNewAppend;
+		this.stringStateObj = stringStateObj;
 		this.id = id;
 		this.nation = nation;
 		this.state = state;
